@@ -1,0 +1,5 @@
+default:
+  repository: 'C:\Users\Boris\Documents\projects\spm-server\spmjs.io\data\repository'
+development:
+  repository: 'C:\Users\Boris\Documents\projects\spm-server\spmjs.io\data\repository'
+  
